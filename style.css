@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200&display=swap');
+body{
+    font-family:'Noto Serif TC', serif;
+}
+h1 {
+    color: rgb(30, 135, 233);
+    font-size: 18px;
+}
+p {
+    color:pink;
+}
+ul{
+    color:purple;
+}
+a{
+    color:sandybrown;
+    transition:all 0.3s;
+}
+a:hover{
+    color:steelblue;
+    transition:all 0.3s;
+
+}
+.style1{
+    color:teal;
+    font-weight: 700;
+    font-size: 30px;
+}
+.eerru{
+    color:seagreen;
+}
